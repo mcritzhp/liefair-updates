@@ -3,12 +3,12 @@
   <channel>
     <title>Liefair</title>
     <item>
-      <title>Version 0.2.0</title>
-      <pubDate>Mon, 16 Nov 2026 13:04:41 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <title>Version 0.2.1</title>
+      <pubDate>Tue, 17 Nov 2026 22:42:11 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/mcritzhp/liefair-updates/releases/download/v0.2.0/Liefair-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="21TgSeom1TTbZdFGAFrqCvTJq6LGor19konkI3FeXD3rQmQW3L3WRRuStuh3HrHpkQ7whiF7tLV8JRwQg9EyAQ==" length="4595390" />
+      <enclosure url="https://github.com/mcritzhp/liefair-updates/releases/download/v0.2.1/Liefair-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="1Kg3bLTZ/f7uv5eIlRw+FS4a4CjQGKqlJuRyfm6mg14fRotvLkIss0uOE76pRtVscclZ8ME4yA7k2lfXmDoCCw==" length="4640814" />
     </item>
   </channel>
 </rss>
